@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Saint Bread",
+        "latitude": 47.65058,
+        "longitude": -122.31297,
+        "url": "https://saintbread.com/",
+        "has_patio": true
+    },
+    {
+        "name": "Morsel",
+        "latitude": 47.665514059568025, 
+        "longitude": -122.31287231699613,
+        "url": "morselseattle.com",
+        "has_patio": false
+    },
+    {
+        "name": "Agua Verde Cafe",
+        "latitude": 47.65172326985612,
+        "longitude":  -122.31400147327928,
+        "url": "aguaverdecafe.com",
+        "has_patio": true
+    }
+]
